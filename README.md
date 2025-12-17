@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 The **Pizza Sales Analysis** project is an end-to-end data analytics solution built using **Power BI** to analyze sales performance of a pizza store.  
 The dashboard converts raw transactional data into **interactive visual insights** that help understand customer behavior, sales trends, and product performance.
+<img width="1326" height="755" alt="Screenshot 2025-12-17 114907" src="https://github.com/user-attachments/assets/0a50c43f-ea34-4f76-80af-7be6c3805057" />
+
 
 This project is designed to support **business decision-making** by identifying revenue drivers, demand patterns, and underperforming products.
 
@@ -78,6 +80,12 @@ The following KPIs were calculated using **DAX measures**:
 - Sales Trends Analysis  
 - Top & Bottom Selling Pizzas  
 - KPI Summary  
+<img width="1166" height="660" alt="Screenshot 2025-12-17 115111" src="https://github.com/user-attachments/assets/f30ea6c2-ffc9-4fe9-877a-cec88f847eb0" />
+<img width="1166" height="664" alt="Screenshot 2025-12-17 115054" src="https://github.com/user-attachments/assets/71687136-67cb-494d-a070-e7a370af7e7e" />
+<img width="1168" height="661" alt="Screenshot 2025-12-17 115029" src="https://github.com/user-attachments/assets/b37c5966-1fbd-475a-bd77-e4d579e334cc" />
+<img width="1170" height="659" alt="Screenshot 2025-12-17 115005" src="https://github.com/user-attachments/assets/dc5ba639-b21a-42eb-a69b-8e351f08338b" />
+<img width="1163" height="656" alt="Screenshot 2025-12-17 114950" src="https://github.com/user-attachments/assets/ec4d4610-5bfd-4f4e-9413-2829528d62f1" />
+<img width="1329" height="761" alt="Screenshot 2025-12-17 114925" src="https://github.com/user-attachments/assets/a3533d53-088a-4095-b83d-8b72f7fe471b" />
 
 ---
 
